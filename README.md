@@ -7,10 +7,13 @@ In this work, we introduce a novel progressive alternating attention dense block
 
 
 ## 2.2.) The architecture of our Progressive Alternative Attention Dense (PAAD) block
-![]()
+![](PAA-Net.jpeg)
 
 ## 2.3.) Overview of the complete PAANet architecture
-![]()
+![](PAA-Net-Full.jpeg)
+
+## 2.4.) Qualitative Results
+![](quantitative_PAA.jpeg)
 
 ## 3.) Training and Testing
 ## 3.1)Data Preparation
