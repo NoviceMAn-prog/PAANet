@@ -177,8 +177,8 @@ def train_main(model):
     """ Training logfile """
     train_log = open("files/train_log.txt", "w")
 
-    train_list = glob('../../data/kins/train/image/*.jpg')
-    train_mask_list = glob('../../data/kins/train/mask/*.jpg')
+    train_list = glob('data/kins/train/image/*.jpg')
+    train_mask_list = glob('data/kins/train/mask/*.jpg')
     """ Load dataset """
     train_x = train_list
     train_y = train_mask_list
