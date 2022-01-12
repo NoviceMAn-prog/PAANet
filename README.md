@@ -33,3 +33,18 @@ Run the script as:
 ## 3.2)Testing
 For testing the trained model run:
 `python paanet_test.py`
+
+## 4.) Citation
+Please cite our paper if you find the work useful:
+
+```
+@article{srivastava2021paanet,
+  title={PAANet: Progressive Alternating Attention for Automatic Medical Image Segmentation},
+  author={Srivastava, Abhishek and Chanda, Sukalpa and Jha, Debesh and Riegler, Michael A and Halvorsen, P{\aa}l and Johansen, Dag and Pal, Umapada},
+  journal={arXiv preprint arXiv:2111.10618},
+  year={2021}
+}
+
+```
+## 5.) FAQ
+Please feel free to contact me if you need any advice or guidance in using this work ([E-mail](abhisheksrivastava2397@gmail.com)) 
