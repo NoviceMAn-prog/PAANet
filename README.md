@@ -21,9 +21,9 @@ In this work, we introduce a novel progressive alternating attention dense block
 
 2.) make two sub-directories "train" and "test"
 
-3.) Put images under directory named "images"
+3.) Put images under directory named "image"
 
-4.) Put masks under directory named "masks"
+4.) Put masks under directory named "mask"
 
 ## 3.2)Training
 Model architecture is defined in `model_bio.py`
