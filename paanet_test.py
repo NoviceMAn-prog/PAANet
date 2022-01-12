@@ -217,8 +217,8 @@ def main_test():
     #test_mask_list = glob("../../data/cvc_data/test/mask/*.tif")
     #test_img_list = glob("../../data/kdsb/test/images/*.jpg")
     #test_mask_list = glob("../../data/kdsb/test/masks/*.jpg")
-    test_img_list = glob('../../data/kins/test/image/*.jpg')
-    test_mask_list = glob('../../data/kins/test/mask/*.jpg')
+    test_img_list = glob('data/kins/test/image/*.jpg')
+    test_mask_list = glob('data/kins/test/mask/*.jpg')
     test_x, test_y = test_img_list,test_mask_list
 
 
